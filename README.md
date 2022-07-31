@@ -1,4 +1,5 @@
 # ip-portscan
+A simple IP/URL ports canner that has some basic, pre-loaded ports for you to try out! This is again, just a little practice of Python to try and sharpen my skills!
 
 This script uses sockets to build a simple ipinformation response for the open ports of an ip.
 
