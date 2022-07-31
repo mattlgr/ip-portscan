@@ -6,7 +6,7 @@ This script uses sockets to build a simple ipinformation response for the open p
 here is an example of use:
 
 ```
-device@device MINGW64 ~/Desktop/Reload/port scan
+device@device MINGW64 ~/port scan (master)
 $ python main.py
 Desired IP> ***.**.***.***
 Response for ***.**.***.***
@@ -24,6 +24,9 @@ Port 1433 (ms-sql-s) is closed on ***.**.***.***!
 Port 3306 (mysql) is closed on ***.**.***.***!
 Port 3389 (ms-wbt-server) is closed on ***.**.***.***!
 Port 5900 (vnc) is closed on ***.**.***.***!
+
+device@device MINGW64 ~/port scan (master)
+$
 ```
 
 Any suggestions for improvment are welcome, and I will take them into note, as this is soley for the purpose of me getting better at Python!
